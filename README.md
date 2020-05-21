@@ -1,2 +1,3 @@
-# blog
-My Angular test App
+###  Angular Blog
+- приложение создано с помощью Angular;
+- скрипт для запуска npm start.
